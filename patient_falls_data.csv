@@ -1,0 +1,121 @@
+patient_id,unit,age,admission_date,fall_date,fall_time,fall_location,fall_type,injury_severity,fall_risk_score,staffing_level,assistive_device,call_light_available,high_risk_medication,prior_fall
+F1001,Medical,66,2026-01-01,2026-01-04,00:00-05:59,Patient Room,Unassisted,No Injury,38,Adequate,None,No,Yes,No
+F1002,Telemetry,81,2026-02-28,2026-03-06,18:00-23:59,Bathroom,Found on Floor,No Injury,68,Below Target,Wheelchair,Yes,No,No
+F1003,Telemetry,47,2026-01-18,2026-01-19,12:00-17:59,Bathroom,Assisted,No Injury,30,Adequate,Walker,Yes,No,Yes
+F1004,Surgical,51,2026-01-27,2026-01-29,18:00-23:59,Bathroom,Found on Floor,Minor Injury,63,Adequate,Walker,Yes,No,No
+F1005,Ortho,84,2026-03-24,2026-03-29,18:00-23:59,Hallway,Unassisted,No Injury,60,Adequate,None,Yes,Yes,No
+F1006,Telemetry,61,2026-01-11,2026-01-15,00:00-05:59,Hallway,Unassisted,No Injury,32,Below Target,None,Yes,Yes,No
+F1007,Ortho,85,2026-02-20,2026-02-26,18:00-23:59,Bathroom,Found on Floor,No Injury,73,Below Target,Walker,No,No,No
+F1008,Medical,75,2026-01-28,2026-01-30,18:00-23:59,Patient Room,Found on Floor,No Injury,30,Adequate,None,Yes,Yes,No
+F1009,Ortho,84,2026-02-06,2026-02-07,00:00-05:59,Hallway,Unassisted,No Injury,61,Adequate,None,Yes,No,No
+F1010,Surgical,45,2026-03-20,2026-03-23,12:00-17:59,Other,Assisted,No Injury,69,Adequate,None,Yes,Yes,No
+F1011,ICU,90,2026-01-17,2026-01-20,06:00-11:59,Patient Room,Unassisted,No Injury,51,Below Target,Wheelchair,Yes,Yes,Yes
+F1012,Medical,49,2026-03-08,2026-03-08,18:00-23:59,Patient Room,Unassisted,No Injury,64,Adequate,Walker,Yes,No,No
+F1013,ICU,61,2026-03-04,2026-03-04,06:00-11:59,Bathroom,Unassisted,No Injury,45,Adequate,None,Yes,No,No
+F1014,Medical,59,2026-01-01,2026-01-05,06:00-11:59,Bathroom,Unassisted,No Injury,34,Adequate,Walker,Yes,Yes,No
+F1015,Medical,63,2026-03-17,2026-03-18,12:00-17:59,Bathroom,Unassisted,No Injury,42,Below Target,Cane,Yes,No,No
+F1016,Surgical,68,2026-01-17,2026-01-22,18:00-23:59,Patient Room,Unassisted,No Injury,61,Adequate,Walker,Yes,Yes,No
+F1017,Surgical,70,2026-01-27,2026-01-30,12:00-17:59,Patient Room,Unassisted,No Injury,64,Adequate,Walker,Yes,No,No
+F1018,Medical,81,2026-01-25,2026-01-27,00:00-05:59,Bathroom,Assisted,Minor Injury,49,Adequate,Walker,No,No,No
+F1019,Surgical,75,2026-03-24,2026-03-26,06:00-11:59,Patient Room,Found on Floor,No Injury,78,Adequate,Walker,Yes,Yes,No
+F1020,ICU,49,2026-03-21,2026-03-21,00:00-05:59,Patient Room,Unassisted,No Injury,40,Adequate,Walker,Yes,Yes,No
+F1021,Ortho,68,2026-01-26,2026-01-26,00:00-05:59,Hallway,Unassisted,Moderate Injury,55,Below Target,Walker,Yes,Yes,No
+F1022,Ortho,60,2026-02-03,2026-02-07,00:00-05:59,Patient Room,Found on Floor,No Injury,69,Below Target,Wheelchair,Yes,No,No
+F1023,Ortho,76,2026-02-24,2026-03-02,12:00-17:59,Hallway,Unassisted,No Injury,26,Below Target,Walker,Yes,Yes,Yes
+F1024,Ortho,88,2026-01-16,2026-01-21,18:00-23:59,Patient Room,Assisted,No Injury,45,Adequate,None,Yes,No,No
+F1025,Ortho,69,2026-02-03,2026-02-06,18:00-23:59,Patient Room,Unassisted,No Injury,82,Adequate,Walker,Yes,Yes,No
+F1026,Medical,61,2026-03-14,2026-03-17,12:00-17:59,Patient Room,Assisted,No Injury,74,Adequate,Walker,Yes,No,No
+F1027,Telemetry,65,2026-01-01,2026-01-06,18:00-23:59,Patient Room,Unassisted,No Injury,59,Adequate,Walker,Yes,No,Yes
+F1028,Ortho,84,2026-03-18,2026-03-22,06:00-11:59,Bathroom,Found on Floor,No Injury,58,Adequate,Walker,Yes,No,No
+F1029,Telemetry,47,2026-01-11,2026-01-12,12:00-17:59,Patient Room,Unassisted,Minor Injury,71,Adequate,Walker,Yes,Yes,Yes
+F1030,Ortho,74,2026-01-26,2026-01-31,18:00-23:59,Patient Room,Found on Floor,Moderate Injury,84,Below Target,Walker,Yes,No,No
+F1031,Medical,60,2026-01-26,2026-01-27,06:00-11:59,Bathroom,Found on Floor,Moderate Injury,30,Adequate,None,Yes,Yes,No
+F1032,Telemetry,75,2026-01-30,2026-01-31,18:00-23:59,Bathroom,Unassisted,No Injury,47,Adequate,Cane,Yes,No,No
+F1033,Medical,53,2026-02-08,2026-02-08,06:00-11:59,Patient Room,Unassisted,No Injury,26,Adequate,Cane,Yes,No,No
+F1034,Telemetry,53,2026-03-05,2026-03-09,00:00-05:59,Patient Room,Found on Floor,No Injury,50,Adequate,Wheelchair,Yes,No,No
+F1035,ICU,82,2026-02-25,2026-03-01,18:00-23:59,Patient Room,Unassisted,No Injury,71,Adequate,Walker,Yes,Yes,No
+F1036,Ortho,47,2026-01-23,2026-01-26,06:00-11:59,Patient Room,Unassisted,No Injury,79,Adequate,Walker,No,Yes,No
+F1037,Medical,61,2026-02-15,2026-02-20,06:00-11:59,Patient Room,Found on Floor,Moderate Injury,81,Adequate,Walker,Yes,Yes,No
+F1038,Medical,52,2026-03-08,2026-03-11,18:00-23:59,Patient Room,Found on Floor,No Injury,62,Adequate,Walker,Yes,No,Yes
+F1039,Telemetry,52,2026-03-21,2026-03-27,00:00-05:59,Bathroom,Found on Floor,No Injury,51,Below Target,Cane,Yes,No,Yes
+F1040,Ortho,90,2026-02-07,2026-02-10,18:00-23:59,Patient Room,Unassisted,No Injury,33,Adequate,None,Yes,Yes,No
+F1041,ICU,81,2026-03-04,2026-03-09,18:00-23:59,Patient Room,Unassisted,No Injury,70,Below Target,None,Yes,No,No
+F1042,Ortho,74,2026-02-24,2026-02-28,18:00-23:59,Bathroom,Unassisted,No Injury,32,Adequate,Walker,Yes,No,Yes
+F1043,Surgical,57,2026-03-22,2026-03-25,18:00-23:59,Bathroom,Unassisted,Minor Injury,37,Adequate,None,Yes,Yes,Yes
+F1044,Surgical,85,2026-03-17,2026-03-18,06:00-11:59,Bathroom,Found on Floor,No Injury,71,Adequate,None,Yes,Yes,Yes
+F1045,Medical,76,2026-03-22,2026-03-28,12:00-17:59,Bathroom,Unassisted,Minor Injury,76,Adequate,Walker,No,No,No
+F1046,Surgical,60,2026-01-03,2026-01-09,06:00-11:59,Bathroom,Assisted,No Injury,57,Adequate,Walker,Yes,Yes,Yes
+F1047,Medical,47,2026-03-05,2026-03-09,18:00-23:59,Hallway,Found on Floor,No Injury,52,Adequate,Cane,No,Yes,Yes
+F1048,Ortho,79,2026-01-29,2026-02-01,00:00-05:59,Hallway,Assisted,No Injury,64,Adequate,Walker,Yes,No,No
+F1049,Telemetry,64,2026-01-03,2026-01-04,06:00-11:59,Hallway,Found on Floor,Minor Injury,82,Adequate,None,Yes,Yes,No
+F1050,Telemetry,76,2026-03-06,2026-03-11,06:00-11:59,Other,Found on Floor,No Injury,69,Adequate,Walker,Yes,Yes,No
+F1051,Telemetry,65,2026-02-02,2026-02-03,06:00-11:59,Bathroom,Unassisted,No Injury,58,Adequate,Cane,No,Yes,No
+F1052,ICU,50,2026-02-20,2026-02-25,00:00-05:59,Bathroom,Found on Floor,No Injury,72,Adequate,Walker,Yes,Yes,No
+F1053,Telemetry,75,2026-01-14,2026-01-19,12:00-17:59,Hallway,Unassisted,Minor Injury,57,Adequate,None,Yes,Yes,No
+F1054,ICU,73,2026-01-10,2026-01-10,18:00-23:59,Patient Room,Found on Floor,No Injury,71,Adequate,Walker,Yes,Yes,No
+F1055,Ortho,71,2026-03-04,2026-03-04,00:00-05:59,Bathroom,Found on Floor,No Injury,49,Adequate,Wheelchair,No,No,No
+F1056,ICU,65,2026-03-16,2026-03-22,18:00-23:59,Hallway,Unassisted,No Injury,56,Adequate,Walker,Yes,No,No
+F1057,Telemetry,86,2026-01-21,2026-01-23,00:00-05:59,Patient Room,Found on Floor,No Injury,55,Adequate,Wheelchair,Yes,Yes,Yes
+F1058,Telemetry,73,2026-03-23,2026-03-23,00:00-05:59,Bathroom,Unassisted,No Injury,48,Adequate,Walker,No,Yes,No
+F1059,Surgical,71,2026-01-19,2026-01-22,18:00-23:59,Bathroom,Unassisted,Minor Injury,61,Below Target,None,Yes,Yes,No
+F1060,Ortho,88,2026-01-02,2026-01-06,00:00-05:59,Bathroom,Assisted,Minor Injury,68,Adequate,Cane,Yes,Yes,No
+F1061,ICU,62,2026-03-24,2026-03-29,00:00-05:59,Hallway,Found on Floor,Moderate Injury,67,Below Target,Walker,Yes,No,No
+F1062,Ortho,67,2026-02-06,2026-02-07,06:00-11:59,Hallway,Assisted,No Injury,57,Adequate,Wheelchair,Yes,No,Yes
+F1063,Medical,87,2026-01-14,2026-01-14,06:00-11:59,Patient Room,Assisted,No Injury,70,Adequate,Walker,No,No,No
+F1064,Telemetry,69,2026-01-30,2026-02-03,18:00-23:59,Patient Room,Found on Floor,No Injury,49,Adequate,Cane,Yes,No,Yes
+F1065,Medical,51,2026-02-22,2026-02-26,00:00-05:59,Hallway,Unassisted,No Injury,26,Below Target,None,Yes,No,Yes
+F1066,Medical,79,2026-03-17,2026-03-23,06:00-11:59,Bathroom,Assisted,No Injury,45,Adequate,Walker,Yes,No,Yes
+F1067,Surgical,81,2026-01-23,2026-01-26,12:00-17:59,Bathroom,Found on Floor,No Injury,26,Adequate,Wheelchair,Yes,No,No
+F1068,Telemetry,78,2026-01-04,2026-01-05,12:00-17:59,Hallway,Unassisted,No Injury,27,Adequate,Walker,Yes,Yes,No
+F1069,Telemetry,61,2026-03-19,2026-03-19,00:00-05:59,Patient Room,Unassisted,No Injury,55,Adequate,Walker,Yes,Yes,No
+F1070,ICU,50,2026-03-13,2026-03-19,18:00-23:59,Patient Room,Found on Floor,No Injury,44,Adequate,Wheelchair,Yes,No,No
+F1071,Surgical,77,2026-03-04,2026-03-05,06:00-11:59,Bathroom,Unassisted,Moderate Injury,62,Below Target,Wheelchair,Yes,No,No
+F1072,Medical,57,2026-01-19,2026-01-24,12:00-17:59,Hallway,Found on Floor,No Injury,54,Adequate,Walker,Yes,No,No
+F1073,Medical,53,2026-02-24,2026-02-25,12:00-17:59,Patient Room,Assisted,No Injury,47,Adequate,Walker,Yes,Yes,Yes
+F1074,Surgical,50,2026-01-08,2026-01-10,06:00-11:59,Bathroom,Found on Floor,Minor Injury,78,Adequate,None,No,No,No
+F1075,Telemetry,61,2026-01-06,2026-01-11,06:00-11:59,Hallway,Found on Floor,Moderate Injury,48,Adequate,Cane,Yes,No,No
+F1076,Telemetry,78,2026-02-09,2026-02-14,18:00-23:59,Patient Room,Found on Floor,No Injury,44,Adequate,Walker,Yes,No,No
+F1077,Ortho,53,2026-01-03,2026-01-03,18:00-23:59,Patient Room,Unassisted,No Injury,64,Below Target,Walker,Yes,Yes,Yes
+F1078,Medical,55,2026-01-25,2026-01-26,06:00-11:59,Bathroom,Assisted,No Injury,40,Adequate,Cane,Yes,No,Yes
+F1079,Ortho,50,2026-01-05,2026-01-05,00:00-05:59,Bathroom,Unassisted,No Injury,85,Adequate,Walker,No,No,No
+F1080,Surgical,82,2026-02-16,2026-02-19,06:00-11:59,Bathroom,Found on Floor,No Injury,26,Adequate,Walker,Yes,Yes,No
+F1081,Medical,70,2026-03-02,2026-03-05,18:00-23:59,Patient Room,Unassisted,Minor Injury,63,Below Target,Cane,No,Yes,Yes
+F1082,Telemetry,87,2026-01-01,2026-01-04,12:00-17:59,Other,Unassisted,No Injury,36,Adequate,Wheelchair,Yes,Yes,Yes
+F1083,Medical,88,2026-03-18,2026-03-23,18:00-23:59,Patient Room,Found on Floor,Minor Injury,84,Below Target,Wheelchair,Yes,Yes,No
+F1084,Telemetry,65,2026-03-25,2026-03-26,18:00-23:59,Hallway,Unassisted,Minor Injury,64,Adequate,Walker,Yes,Yes,No
+F1085,Ortho,87,2026-03-05,2026-03-10,06:00-11:59,Bathroom,Assisted,No Injury,37,Adequate,Walker,Yes,No,No
+F1086,Telemetry,86,2026-02-03,2026-02-09,18:00-23:59,Patient Room,Found on Floor,No Injury,84,Below Target,None,Yes,No,No
+F1087,Telemetry,69,2026-03-19,2026-03-22,18:00-23:59,Patient Room,Unassisted,No Injury,65,Adequate,Cane,Yes,No,No
+F1088,Surgical,84,2026-02-24,2026-03-01,12:00-17:59,Patient Room,Found on Floor,No Injury,68,Below Target,Wheelchair,Yes,Yes,Yes
+F1089,Ortho,72,2026-02-07,2026-02-08,00:00-05:59,Patient Room,Found on Floor,Moderate Injury,37,Adequate,Walker,Yes,Yes,No
+F1090,Ortho,80,2026-01-27,2026-02-02,12:00-17:59,Hallway,Unassisted,Minor Injury,46,Adequate,Walker,Yes,Yes,No
+F1091,Telemetry,55,2026-03-16,2026-03-17,18:00-23:59,Bathroom,Found on Floor,No Injury,70,Below Target,Walker,Yes,No,Yes
+F1092,Medical,62,2026-03-08,2026-03-11,12:00-17:59,Hallway,Unassisted,Minor Injury,33,Below Target,Walker,Yes,No,Yes
+F1093,Ortho,71,2026-01-07,2026-01-11,18:00-23:59,Patient Room,Unassisted,Minor Injury,63,Adequate,Walker,Yes,Yes,No
+F1094,Medical,67,2026-03-12,2026-03-17,00:00-05:59,Bathroom,Unassisted,No Injury,60,Below Target,Walker,Yes,Yes,No
+F1095,ICU,45,2026-03-22,2026-03-28,00:00-05:59,Other,Unassisted,Minor Injury,46,Adequate,Walker,Yes,Yes,Yes
+F1096,Surgical,82,2026-03-21,2026-03-24,06:00-11:59,Hallway,Unassisted,Moderate Injury,57,Adequate,None,Yes,No,No
+F1097,Medical,65,2026-01-27,2026-01-31,00:00-05:59,Other,Found on Floor,No Injury,81,Adequate,None,No,Yes,Yes
+F1098,Ortho,89,2026-02-22,2026-02-27,00:00-05:59,Other,Assisted,No Injury,36,Adequate,Cane,Yes,Yes,Yes
+F1099,Telemetry,86,2026-01-07,2026-01-12,18:00-23:59,Hallway,Found on Floor,Minor Injury,71,Adequate,Wheelchair,Yes,No,Yes
+F1100,Telemetry,46,2026-01-15,2026-01-18,18:00-23:59,Bathroom,Assisted,No Injury,31,Adequate,Wheelchair,Yes,Yes,No
+F1101,Ortho,63,2026-02-16,2026-02-22,12:00-17:59,Patient Room,Unassisted,No Injury,37,Adequate,None,Yes,No,Yes
+F1102,Telemetry,53,2026-01-12,2026-01-14,12:00-17:59,Hallway,Unassisted,No Injury,68,Adequate,Cane,Yes,Yes,No
+F1103,ICU,81,2026-02-20,2026-02-20,06:00-11:59,Patient Room,Assisted,No Injury,79,Adequate,None,No,Yes,No
+F1104,Ortho,80,2026-01-05,2026-01-06,12:00-17:59,Patient Room,Assisted,No Injury,46,Adequate,Walker,Yes,No,No
+F1105,Medical,52,2026-01-15,2026-01-19,00:00-05:59,Patient Room,Unassisted,No Injury,34,Below Target,None,Yes,Yes,No
+F1106,Surgical,70,2026-02-24,2026-02-25,18:00-23:59,Patient Room,Found on Floor,Minor Injury,55,Adequate,Walker,Yes,No,No
+F1107,Telemetry,67,2026-01-09,2026-01-11,00:00-05:59,Patient Room,Unassisted,No Injury,37,Adequate,None,Yes,No,Yes
+F1108,Ortho,87,2026-03-19,2026-03-23,06:00-11:59,Hallway,Unassisted,No Injury,32,Adequate,None,Yes,No,Yes
+F1109,Medical,81,2026-02-20,2026-02-25,12:00-17:59,Patient Room,Assisted,No Injury,71,Adequate,Walker,Yes,Yes,No
+F1110,Ortho,82,2026-01-02,2026-01-02,18:00-23:59,Bathroom,Found on Floor,Minor Injury,73,Below Target,Walker,Yes,Yes,No
+F1111,ICU,85,2026-02-16,2026-02-22,12:00-17:59,Hallway,Unassisted,No Injury,40,Adequate,None,No,No,No
+F1112,Surgical,75,2026-02-07,2026-02-10,00:00-05:59,Patient Room,Unassisted,No Injury,71,Adequate,None,Yes,Yes,Yes
+F1113,Telemetry,54,2026-01-18,2026-01-21,00:00-05:59,Patient Room,Unassisted,No Injury,40,Adequate,Walker,Yes,Yes,No
+F1114,ICU,84,2026-03-18,2026-03-19,18:00-23:59,Bathroom,Found on Floor,No Injury,33,Below Target,None,Yes,No,Yes
+F1115,Ortho,79,2026-03-01,2026-03-07,00:00-05:59,Bathroom,Found on Floor,No Injury,71,Adequate,None,Yes,No,Yes
+F1116,Ortho,50,2026-03-08,2026-03-11,06:00-11:59,Patient Room,Unassisted,Minor Injury,62,Adequate,Walker,Yes,No,No
+F1117,Telemetry,50,2026-01-26,2026-01-31,12:00-17:59,Patient Room,Found on Floor,No Injury,83,Below Target,Walker,Yes,No,No
+F1118,Ortho,46,2026-01-08,2026-01-12,06:00-11:59,Other,Unassisted,No Injury,49,Adequate,Wheelchair,Yes,No,No
+F1119,Telemetry,84,2026-02-23,2026-02-28,06:00-11:59,Bathroom,Unassisted,No Injury,29,Below Target,None,Yes,No,No
+F1120,Ortho,58,2026-02-15,2026-02-20,06:00-11:59,Other,Found on Floor,Minor Injury,35,Adequate,Walker,Yes,No,No
