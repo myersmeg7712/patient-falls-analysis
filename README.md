@@ -99,7 +99,7 @@ Additional useful variables would include:
 - Total patient population, including patients who did not fall
 
 ## Dashboard
-![Patient Falls Analysis Dashboard](patient_falls_dashboard.png)
+
 
 An interactive Excel dashboard was created to summarize the findings. The dashboard includes:
 
